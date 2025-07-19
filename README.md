@@ -36,6 +36,12 @@
 机器学习：
 
 深度学习：
+[UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+
+[CMU 11-785](https://deeplearning.cs.cmu.edu/F24/index.html)
+
+[UCB CS182](https://cs182sp21.github.io/)
+
 
 强化学习：
 
